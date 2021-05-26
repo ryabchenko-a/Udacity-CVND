@@ -18,7 +18,7 @@ This project uses CNN-RNN (LSTM) model to automatically generate caption for ima
 You can find the source code and more detailed documentation in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Image%20Captioning)
 
 ## Project 3: SLAM (Simultaneous Location and Mapping)
-![SLAM](https://user-images.githubusercontent.com/61123874/119511275-8a59e280-bd72-11eb-8a26-e6ea1a75890e.png)
+<img src="https://user-images.githubusercontent.com/61123874/119511275-8a59e280-bd72-11eb-8a26-e6ea1a75890e.png" alt="SLAM" height="256"/>
 
 This project uses kalman-filter based SLAM to localize a virtual robot and create the map of surrounding landmarks.  
 You can find the source code and more detailed documentation in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/SLAM)
