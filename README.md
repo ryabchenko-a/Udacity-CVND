@@ -47,3 +47,7 @@ You can find the source code and more detailed documentation in [this folder.](h
 This project is more of an exercise, which aims to introduce some basic optimization techniques, such as passing by reference, 
 optimizing if statements and for loops, clearing out intermediate variables, reserving storage for vectors, and using static const variables.  
 You can find the source code and more detailed documentation in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Extracurriculars/C%2B%2B%20Optimization)
+
+## Feedback
+
+Shall you have any question or find any inconsistency in code, please contact me at [LinkedIn](https://www.linkedin.com/in/anatoly-ryabchenko) or open an issue.
