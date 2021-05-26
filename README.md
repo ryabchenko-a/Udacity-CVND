@@ -33,20 +33,21 @@ Besides 3 main modules, the nanodegree provides an opportunity to complement you
 5. More Deep Learning Models (FCNs)
 6. C++ Programming
 
-Courses 4 and 6 allow to conduct another 2 projects:  
+Courses 4 and 6 allow to conduct another 2 projects. They are easier and don't require separate READMEs.  
 ### Review Sentiment Analysis
 ![Text Sentiment Analysis](https://user-images.githubusercontent.com/61123874/119511277-8af27900-bd72-11eb-952e-6a126b795c7f.png)
 
 This project introduces you with Natural Language Processing (NLP) and guides you through creating an NLP model which is capable of predict the sentiment 
 (Positive/Negative) for a review, from scratch. Although this project is much more guided, it provides valuable intuition for approaching NLP.  
-You can find the source code and more detailed documentation in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Extracurriculars/Text%20Sentiment%20Analysis)
+You can find the source code [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Extracurriculars/Text%20Sentiment%20Analysis)
 
 ### C++ Code Optimization
 ![C++ optimization](https://user-images.githubusercontent.com/61123874/119511262-87f78880-bd72-11eb-8ead-225c4f4d9504.png)
 
 This project is more of an exercise, which aims to introduce some basic optimization techniques, such as passing by reference, 
 optimizing if statements and for loops, clearing out intermediate variables, reserving storage for vectors, and using static const variables.  
-You can find the source code and more detailed documentation in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Extracurriculars/C%2B%2B%20Optimization)
+It asks to read through initial Andy's histogram filter code and optimize it. You can find the original code in andy_histogram_filter and optimized code in optimized_code folder. Look into instructions.md for more info.
+You can find the source code in [this folder.](https://github.com/ryabchenko-a/Udacity-CVND/tree/main/Extracurriculars/C%2B%2B%20Optimization)
 
 ## Feedback
 
