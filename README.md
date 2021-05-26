@@ -25,7 +25,7 @@ You can find the source code and more detailed documentation in [this folder.](h
 
 ## Extracurriculars
 
-Besides 3 main module, the nanodegree provides an opportunity to complement your knowledge with any or all of its 6 extracurricular courses, which include:   
+Besides 3 main modules, the nanodegree provides an opportunity to complement your knowledge with its 6 extracurricular courses, which include:   
 1. Applications of Computer Vision and Deep Learning
 2. PyTorch Course
 3. Skin Cancer Detection
