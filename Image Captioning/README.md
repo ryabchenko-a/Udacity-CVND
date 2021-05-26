@@ -4,14 +4,12 @@
 
 In this project I've built a system that is able to automaticaly generate description of image content (caption).  
 1. First, it uses CNN as an encoder to find content features.  
-2. Then, it embeds the features and passess it to RNN of LSTM cells where each cell's output is an input to the next cell.
+2. Then, it embeds the features and passess it to RNN of LSTM cells where each cell's output is an input to the next cell (which runs until the <end> word is predicted or word limit is reached).
 3. Last, it uses gready search or beam search to generate the captions.
 
 ## Detailed description of the project
 
 The project consists of 4 ipynb notebooks.
-
-(and run until the <end> word is predicted or word limit is reached)
 
 ### [0_Dataset.ipynb](https://github.com/ryabchenko-a/Udacity-CVND/blob/main/Facial%20Keypoints%20Detector/1.%20Load%20and%20Visualize%20Data.ipynb)
 ![Coco Dataset Examples](https://github.com/ryabchenko-a/Udacity-CVND/raw/7b87e9dee9ee1edcb9712cede0a96a86b14461b4/Image%20Captioning/images/coco-examples.jpg)
