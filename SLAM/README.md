@@ -1,6 +1,5 @@
 # Simultaneous Localization and Mapping (SLAM) Project
-
-![Robot World](https://github.com/ryabchenko-a/Udacity-CVND/blob/main/SLAM/images/robot_world.png)
+<img src="https://github.com/ryabchenko-a/Udacity-CVND/blob/main/SLAM/images/robot_world.png" alt="Robot World" height="512"/>
 
 In this project I've built a virtual robot that moves randomly and uses its not perfect sensor to sense the world (i.e. closest landmarks).
 
